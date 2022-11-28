@@ -1,0 +1,16 @@
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\bin\Debug\net5.0\BankProj.exe
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\bin\Debug\net5.0\BankProj.deps.json
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\bin\Debug\net5.0\BankProj.runtimeconfig.json
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\bin\Debug\net5.0\BankProj.runtimeconfig.dev.json
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\bin\Debug\net5.0\BankProj.dll
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\bin\Debug\net5.0\BankProj.pdb
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.csproj.AssemblyReference.cache
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.AssemblyInfoInputs.cache
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.AssemblyInfo.cs
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.csproj.CoreCompileInputs.cache
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.dll
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\refint\BankProj.dll
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.pdb
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\BankProj.genruntimeconfig.cache
+C:\Users\bengtsson.lucas\bank2\BankProj\BankProj\obj\Debug\net5.0\ref\BankProj.dll
